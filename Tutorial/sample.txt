@@ -1,5 +1,5 @@
 git Test
 
-通信のテストでーす
+aaaaaa
 
-ふぁっきゅー
+hoge
